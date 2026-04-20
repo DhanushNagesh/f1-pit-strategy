@@ -1,8 +1,8 @@
 {
-  "model_type": "XGBoost",
-  "f1_score": 0.6973365617433414,
-  "precision": 0.5625,
-  "recall": 0.9171974522292994,
-  "random_forest_f1": 0.6898395721925134,
-  "xgboost_f1": 0.6973365617433414
+  "model_type": "RandomForest",
+  "f1_score": 0.1956241956241956,
+  "precision": 0.12101910828025478,
+  "recall": 0.5100671140939598,
+  "random_forest_f1": 0.1956241956241956,
+  "xgboost_f1": 0.188911704312115
 }
