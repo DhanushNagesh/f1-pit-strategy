@@ -91,7 +91,24 @@ if __name__ == "__main__":
     races = [
         (2023, 'Bahrain'),
         (2023, 'Saudi Arabia'),
-        (2023, 'Australia')
+        (2023, 'Australia'),
+        (2023, 'Azerbaijan'),
+        (2023, 'Miami'),
+        (2023, 'Monaco'),
+        (2023, 'Spain'),
+        (2023, 'Canada'),
+        (2023, 'Austria'),
+        (2023, 'Great Britain'),
+        (2023, 'Hungary'),
+        (2023, 'Belgium'),
+        (2023, 'Netherlands'),
+        (2023, 'Italy'),
+        (2023, 'Singapore'),
+        (2023, 'Japan'),
+        (2023, 'Qatar'),
+        (2023, 'United States'),
+        (2023, 'Mexico'),
+        (2023, 'Brazil'),
     ]
     
     df = fetch_multiple_races(races)
