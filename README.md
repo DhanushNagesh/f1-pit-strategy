@@ -139,6 +139,11 @@ curl -X POST http://localhost:8000/predict \
 
 Visit `http://localhost:8000/docs` 
 
+### Example Usage
+<img width="2492" height="1236" alt="image" src="https://github.com/user-attachments/assets/01b25be5-fb57-431a-96de-267b46bbc7de" />
+
+<img width="2482" height="1258" alt="image" src="https://github.com/user-attachments/assets/08e68d88-b78e-4478-9b05-2028d7e2609e" />
+
 ## Future Work
 
 1. **Competitor Context**
