@@ -12,6 +12,7 @@
   * [Project Structure](#project-structure)
   * [Results](#results)
   * [API Usage](#api-usage)
+  * [Example Usage](#example-usage)
   * [Future Work](#future-work)
 
 ## Quick Start
@@ -135,7 +136,7 @@ curl -X POST http://localhost:8000/predict \
 }
 ```
 
-### Interactive Docs
+## Interactive Docs
 
 Visit `http://localhost:8000/docs` 
 
