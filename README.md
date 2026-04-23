@@ -1,10 +1,5 @@
 # 🏎️ F1 Pit Stop Strategy Optimizer
 
-<p align="center">
-  <a href="https://github.com/DhanushNagesh/f1-pit-strategy/blob/main/LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-green.svg"></a>
-  <a href="#"><img src="https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg"></a>
-  <a href="#"><img src="https://img.shields.io/badge/F1--Score-0.93-success.svg"></a>
-</p>
 
 ---
 
